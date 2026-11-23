@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Bilder</string>
+    <string name="videos">Videoer</string>
+    <string name="favorites">Favoritter</string>
+    <string name="albums">Album</string>
+    <string name="search_title">Søk</string>
+    <string name="settings">Innstillinger</string>
+    <string name="language_heading">SPRÅK</string>
+    <string name="language_system">Systemspråk</string>
+    <string name="back">Tilbake</string>
+    <string name="cancel">Avbryt</string>
+    <string name="close">Lukk</string>
+    <string name="delete">Slett</string>
+    <string name="edit">Rediger</string>
+    <string name="share">Del</string>
+    <string name="copy">Kopier</string>
+    <string name="move">Flytt</string>
+    <string name="rename">Gi nytt navn</string>
+    <string name="save">Lagre</string>
+    <string name="export">Eksporter</string>
+    <string name="filters">Filtre</string>
+    <string name="crop">Beskjær</string>
+    <string name="rotate_90">Roter 90°</string>
+    <string name="mirror">Speilvend</string>
+    <string name="undo">Angre</string>
+    <string name="redo">Gjør om</string>
+    <string name="compare">Sammenlign</string>
+    <string name="original">Original</string>
+    <string name="file_info">Filinformasjon</string>
+    <string name="all">Alle</string>
+    <string name="select_all">Velg alle</string>
+    <string name="clear_selection">Tøm utvalg</string>
+    <string name="new_album">Nytt album</string>
+    <string name="album_name">Albumnavn</string>
+    <string name="favorite">Favoritt</string>
+    <string name="sort_media">Sorter medier</string>
+    <string name="sort_date">Opptaksdato</string>
+    <string name="sort_name">Filnavn</string>
+    <string name="sort_size">Filstørrelse</string>
+    <string name="sort_duration">Videolengde</string>
+    <string name="sort_type">Filtype</string>
+    <string name="sort_descending">Synkende rekkefølge</string>
+    <string name="group_by_day">Grupper etter dag</string>
+    <string name="more_actions">Mer</string>
+</resources>

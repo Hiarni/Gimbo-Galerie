@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">फ़ोटो</string>
+    <string name="videos">वीडियो</string>
+    <string name="favorites">पसंदीदा</string>
+    <string name="albums">एल्बम</string>
+    <string name="search_title">खोजें</string>
+    <string name="settings">सेटिंग</string>
+    <string name="language_heading">भाषा</string>
+    <string name="language_system">सिस्टम की भाषा</string>
+    <string name="back">वापस</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="close">बंद करें</string>
+    <string name="delete">मिटाएँ</string>
+    <string name="edit">संपादित करें</string>
+    <string name="share">साझा करें</string>
+    <string name="copy">कॉपी करें</string>
+    <string name="move">स्थानांतरित करें</string>
+    <string name="rename">नाम बदलें</string>
+    <string name="save">सहेजें</string>
+    <string name="export">निर्यात करें</string>
+    <string name="filters">फ़िल्टर</string>
+    <string name="crop">काटें</string>
+    <string name="rotate_90">90° घुमाएँ</string>
+    <string name="mirror">प्रतिबिंबित करें</string>
+    <string name="undo">पूर्ववत करें</string>
+    <string name="redo">फिर करें</string>
+    <string name="compare">तुलना करें</string>
+    <string name="original">मूल</string>
+    <string name="file_info">फ़ाइल की जानकारी</string>
+    <string name="all">सभी</string>
+    <string name="select_all">सभी चुनें</string>
+    <string name="clear_selection">चयन हटाएँ</string>
+    <string name="new_album">नया एल्बम</string>
+    <string name="album_name">एल्बम का नाम</string>
+    <string name="favorite">पसंदीदा</string>
+    <string name="sort_media">मीडिया क्रमबद्ध करें</string>
+    <string name="sort_date">फ़ोटो लेने की तारीख</string>
+    <string name="sort_name">फ़ाइल का नाम</string>
+    <string name="sort_size">फ़ाइल का आकार</string>
+    <string name="sort_duration">वीडियो की अवधि</string>
+    <string name="sort_type">फ़ाइल का प्रकार</string>
+    <string name="sort_descending">घटता क्रम</string>
+    <string name="group_by_day">दिन के अनुसार समूह बनाएँ</string>
+    <string name="more_actions">और</string>
+</resources>

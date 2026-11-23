@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Kuvat</string>
+    <string name="videos">Videot</string>
+    <string name="favorites">Suosikit</string>
+    <string name="albums">Albumit</string>
+    <string name="search_title">Haku</string>
+    <string name="settings">Asetukset</string>
+    <string name="language_heading">KIELI</string>
+    <string name="language_system">Järjestelmän kieli</string>
+    <string name="back">Takaisin</string>
+    <string name="cancel">Peruuta</string>
+    <string name="close">Sulje</string>
+    <string name="delete">Poista</string>
+    <string name="edit">Muokkaa</string>
+    <string name="share">Jaa</string>
+    <string name="copy">Kopioi</string>
+    <string name="move">Siirrä</string>
+    <string name="rename">Nimeä uudelleen</string>
+    <string name="save">Tallenna</string>
+    <string name="export">Vie</string>
+    <string name="filters">Suodattimet</string>
+    <string name="crop">Rajaa</string>
+    <string name="rotate_90">Kierrä 90°</string>
+    <string name="mirror">Peilaa</string>
+    <string name="undo">Kumoa</string>
+    <string name="redo">Tee uudelleen</string>
+    <string name="compare">Vertaa</string>
+    <string name="original">Alkuperäinen</string>
+    <string name="file_info">Tiedoston tiedot</string>
+    <string name="all">Kaikki</string>
+    <string name="select_all">Valitse kaikki</string>
+    <string name="clear_selection">Tyhjennä valinta</string>
+    <string name="new_album">Uusi albumi</string>
+    <string name="album_name">Albumin nimi</string>
+    <string name="favorite">Suosikki</string>
+    <string name="sort_media">Lajittele media</string>
+    <string name="sort_date">Kuvauspäivä</string>
+    <string name="sort_name">Tiedoston nimi</string>
+    <string name="sort_size">Tiedoston koko</string>
+    <string name="sort_duration">Videon kesto</string>
+    <string name="sort_type">Tiedostotyyppi</string>
+    <string name="sort_descending">Laskeva järjestys</string>
+    <string name="group_by_day">Ryhmittele päivän mukaan</string>
+    <string name="more_actions">Lisää</string>
+</resources>

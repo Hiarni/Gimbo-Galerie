@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Foto</string>
+    <string name="videos">Video</string>
+    <string name="favorites">Favorit</string>
+    <string name="albums">Album</string>
+    <string name="search_title">Cari</string>
+    <string name="settings">Pengaturan</string>
+    <string name="language_heading">BAHASA</string>
+    <string name="language_system">Bahasa sistem</string>
+    <string name="back">Kembali</string>
+    <string name="cancel">Batal</string>
+    <string name="close">Tutup</string>
+    <string name="delete">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="share">Bagikan</string>
+    <string name="copy">Salin</string>
+    <string name="move">Pindahkan</string>
+    <string name="rename">Ganti nama</string>
+    <string name="save">Simpan</string>
+    <string name="export">Ekspor</string>
+    <string name="filters">Filter</string>
+    <string name="crop">Pangkas</string>
+    <string name="rotate_90">Putar 90°</string>
+    <string name="mirror">Cerminkan</string>
+    <string name="undo">Urungkan</string>
+    <string name="redo">Ulangi</string>
+    <string name="compare">Bandingkan</string>
+    <string name="original">Asli</string>
+    <string name="file_info">Informasi berkas</string>
+    <string name="all">Semua</string>
+    <string name="select_all">Pilih semua</string>
+    <string name="clear_selection">Hapus pilihan</string>
+    <string name="new_album">Album baru</string>
+    <string name="album_name">Nama album</string>
+    <string name="favorite">Favorit</string>
+    <string name="sort_media">Urutkan media</string>
+    <string name="sort_date">Tanggal pengambilan</string>
+    <string name="sort_name">Nama berkas</string>
+    <string name="sort_size">Ukuran berkas</string>
+    <string name="sort_duration">Durasi video</string>
+    <string name="sort_type">Jenis berkas</string>
+    <string name="sort_descending">Urutan menurun</string>
+    <string name="group_by_day">Kelompokkan per hari</string>
+    <string name="more_actions">Lainnya</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Fotografii</string>
+    <string name="videos">Videoclipuri</string>
+    <string name="favorites">Favorite</string>
+    <string name="albums">Albume</string>
+    <string name="search_title">Caută</string>
+    <string name="settings">Setări</string>
+    <string name="language_heading">LIMBĂ</string>
+    <string name="language_system">Limba sistemului</string>
+    <string name="back">Înapoi</string>
+    <string name="cancel">Anulează</string>
+    <string name="close">Închide</string>
+    <string name="delete">Șterge</string>
+    <string name="edit">Editează</string>
+    <string name="share">Distribuie</string>
+    <string name="copy">Copiază</string>
+    <string name="move">Mută</string>
+    <string name="rename">Redenumește</string>
+    <string name="save">Salvează</string>
+    <string name="export">Exportă</string>
+    <string name="filters">Filtre</string>
+    <string name="crop">Decupează</string>
+    <string name="rotate_90">Rotește 90°</string>
+    <string name="mirror">Oglindește</string>
+    <string name="undo">Anulează</string>
+    <string name="redo">Refă</string>
+    <string name="compare">Compară</string>
+    <string name="original">Original</string>
+    <string name="file_info">Informații fișier</string>
+    <string name="all">Toate</string>
+    <string name="select_all">Selectează tot</string>
+    <string name="clear_selection">Golește selecția</string>
+    <string name="new_album">Album nou</string>
+    <string name="album_name">Numele albumului</string>
+    <string name="favorite">Favorit</string>
+    <string name="sort_media">Sortează conținutul</string>
+    <string name="sort_date">Data capturii</string>
+    <string name="sort_name">Numele fișierului</string>
+    <string name="sort_size">Dimensiunea fișierului</string>
+    <string name="sort_duration">Durata videoclipului</string>
+    <string name="sort_type">Tipul fișierului</string>
+    <string name="sort_descending">Ordine descrescătoare</string>
+    <string name="group_by_day">Grupează pe zile</string>
+    <string name="more_actions">Mai multe</string>
+</resources>

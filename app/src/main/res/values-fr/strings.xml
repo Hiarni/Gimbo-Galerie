@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Photos</string>
+    <string name="videos">Vidéos</string>
+    <string name="favorites">Favoris</string>
+    <string name="albums">Albums</string>
+    <string name="search_title">Rechercher</string>
+    <string name="settings">Paramètres</string>
+    <string name="language_heading">LANGUE</string>
+    <string name="language_system">Langue du système</string>
+    <string name="back">Retour</string>
+    <string name="cancel">Annuler</string>
+    <string name="close">Fermer</string>
+    <string name="delete">Supprimer</string>
+    <string name="edit">Modifier</string>
+    <string name="share">Partager</string>
+    <string name="copy">Copier</string>
+    <string name="move">Déplacer</string>
+    <string name="rename">Renommer</string>
+    <string name="save">Enregistrer</string>
+    <string name="export">Exporter</string>
+    <string name="filters">Filtres</string>
+    <string name="crop">Recadrer</string>
+    <string name="rotate_90">Pivoter de 90°</string>
+    <string name="mirror">Miroir</string>
+    <string name="undo">Annuler</string>
+    <string name="redo">Rétablir</string>
+    <string name="compare">Comparer</string>
+    <string name="original">Original</string>
+    <string name="file_info">Informations du fichier</string>
+    <string name="all">Tout</string>
+    <string name="select_all">Tout sélectionner</string>
+    <string name="clear_selection">Effacer la sélection</string>
+    <string name="new_album">Nouvel album</string>
+    <string name="album_name">Nom de l’album</string>
+    <string name="favorite">Favori</string>
+    <string name="sort_media">Trier les médias</string>
+    <string name="sort_date">Date de prise de vue</string>
+    <string name="sort_name">Nom du fichier</string>
+    <string name="sort_size">Taille du fichier</string>
+    <string name="sort_duration">Durée de la vidéo</string>
+    <string name="sort_type">Type de fichier</string>
+    <string name="sort_descending">Ordre décroissant</string>
+    <string name="group_by_day">Grouper par jour</string>
+    <string name="more_actions">Plus</string>
+</resources>

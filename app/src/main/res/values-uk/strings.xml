@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Фото</string>
+    <string name="videos">Відео</string>
+    <string name="favorites">Обране</string>
+    <string name="albums">Альбоми</string>
+    <string name="search_title">Пошук</string>
+    <string name="settings">Налаштування</string>
+    <string name="language_heading">МОВА</string>
+    <string name="language_system">Мова системи</string>
+    <string name="back">Назад</string>
+    <string name="cancel">Скасувати</string>
+    <string name="close">Закрити</string>
+    <string name="delete">Видалити</string>
+    <string name="edit">Редагувати</string>
+    <string name="share">Поділитися</string>
+    <string name="copy">Копіювати</string>
+    <string name="move">Перемістити</string>
+    <string name="rename">Перейменувати</string>
+    <string name="save">Зберегти</string>
+    <string name="export">Експорт</string>
+    <string name="filters">Фільтри</string>
+    <string name="crop">Обрізати</string>
+    <string name="rotate_90">Повернути на 90°</string>
+    <string name="mirror">Віддзеркалити</string>
+    <string name="undo">Скасувати</string>
+    <string name="redo">Повторити</string>
+    <string name="compare">Порівняти</string>
+    <string name="original">Оригінал</string>
+    <string name="file_info">Відомості про файл</string>
+    <string name="all">Усі</string>
+    <string name="select_all">Вибрати все</string>
+    <string name="clear_selection">Зняти виділення</string>
+    <string name="new_album">Новий альбом</string>
+    <string name="album_name">Назва альбому</string>
+    <string name="favorite">Обране</string>
+    <string name="sort_media">Сортування файлів</string>
+    <string name="sort_date">Дата знімання</string>
+    <string name="sort_name">Назва файлу</string>
+    <string name="sort_size">Розмір файлу</string>
+    <string name="sort_duration">Тривалість відео</string>
+    <string name="sort_type">Тип файлу</string>
+    <string name="sort_descending">За спаданням</string>
+    <string name="group_by_day">Групувати за днями</string>
+    <string name="more_actions">Ще</string>
+</resources>

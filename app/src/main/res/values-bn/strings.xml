@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">ছবি</string>
+    <string name="videos">ভিডিও</string>
+    <string name="favorites">পছন্দের</string>
+    <string name="albums">অ্যালবাম</string>
+    <string name="search_title">খুঁজুন</string>
+    <string name="settings">সেটিংস</string>
+    <string name="language_heading">ভাষা</string>
+    <string name="language_system">সিস্টেমের ভাষা</string>
+    <string name="back">ফিরুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="close">বন্ধ করুন</string>
+    <string name="delete">মুছুন</string>
+    <string name="edit">সম্পাদনা</string>
+    <string name="share">শেয়ার করুন</string>
+    <string name="copy">কপি করুন</string>
+    <string name="move">সরান</string>
+    <string name="rename">নাম বদলান</string>
+    <string name="save">সংরক্ষণ</string>
+    <string name="export">রপ্তানি</string>
+    <string name="filters">ফিল্টার</string>
+    <string name="crop">কাটুন</string>
+    <string name="rotate_90">৯০° ঘোরান</string>
+    <string name="mirror">প্রতিফলন</string>
+    <string name="undo">পূর্বাবস্থায় ফেরান</string>
+    <string name="redo">আবার করুন</string>
+    <string name="compare">তুলনা</string>
+    <string name="original">মূল</string>
+    <string name="file_info">ফাইলের তথ্য</string>
+    <string name="all">সব</string>
+    <string name="select_all">সব বাছুন</string>
+    <string name="clear_selection">নির্বাচন মুছুন</string>
+    <string name="new_album">নতুন অ্যালবাম</string>
+    <string name="album_name">অ্যালবামের নাম</string>
+    <string name="favorite">পছন্দের</string>
+    <string name="sort_media">মিডিয়া সাজান</string>
+    <string name="sort_date">তোলার তারিখ</string>
+    <string name="sort_name">ফাইলের নাম</string>
+    <string name="sort_size">ফাইলের আকার</string>
+    <string name="sort_duration">ভিডিওর দৈর্ঘ্য</string>
+    <string name="sort_type">ফাইলের ধরন</string>
+    <string name="sort_descending">অবরোহ ক্রম</string>
+    <string name="group_by_day">দিন অনুযায়ী সাজান</string>
+    <string name="more_actions">আরও</string>
+</resources>

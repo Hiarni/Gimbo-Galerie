@@ -1,0 +1,20 @@
+# Gradle und Build
+.gradle/
+.kotlin/
+**/build/
+
+# IDE und lokale Konfiguration
+.idea/
+local.properties
+signing.properties
+
+# Signierschlüssel
+*.jks
+*.keystore
+
+# Release-Dateien
+release/
+
+# Python
+__pycache__/
+*.pyc

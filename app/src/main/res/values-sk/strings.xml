@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Fotografie</string>
+    <string name="videos">Videá</string>
+    <string name="favorites">Obľúbené</string>
+    <string name="albums">Albumy</string>
+    <string name="search_title">Hľadať</string>
+    <string name="settings">Nastavenia</string>
+    <string name="language_heading">JAZYK</string>
+    <string name="language_system">Jazyk systému</string>
+    <string name="back">Späť</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="close">Zavrieť</string>
+    <string name="delete">Odstrániť</string>
+    <string name="edit">Upraviť</string>
+    <string name="share">Zdieľať</string>
+    <string name="copy">Kopírovať</string>
+    <string name="move">Presunúť</string>
+    <string name="rename">Premenovať</string>
+    <string name="save">Uložiť</string>
+    <string name="export">Exportovať</string>
+    <string name="filters">Filtre</string>
+    <string name="crop">Orezať</string>
+    <string name="rotate_90">Otočiť o 90°</string>
+    <string name="mirror">Zrkadliť</string>
+    <string name="undo">Späť</string>
+    <string name="redo">Znova</string>
+    <string name="compare">Porovnať</string>
+    <string name="original">Originál</string>
+    <string name="file_info">Informácie o súbore</string>
+    <string name="all">Všetko</string>
+    <string name="select_all">Vybrať všetko</string>
+    <string name="clear_selection">Zrušiť výber</string>
+    <string name="new_album">Nový album</string>
+    <string name="album_name">Názov albumu</string>
+    <string name="favorite">Obľúbené</string>
+    <string name="sort_media">Zoradiť médiá</string>
+    <string name="sort_date">Dátum vytvorenia</string>
+    <string name="sort_name">Názov súboru</string>
+    <string name="sort_size">Veľkosť súboru</string>
+    <string name="sort_duration">Dĺžka videa</string>
+    <string name="sort_type">Typ súboru</string>
+    <string name="sort_descending">Zostupne</string>
+    <string name="group_by_day">Zoskupiť podľa dňa</string>
+    <string name="more_actions">Viac</string>
+</resources>

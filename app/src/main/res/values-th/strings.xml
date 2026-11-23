@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">รูปภาพ</string>
+    <string name="videos">วิดีโอ</string>
+    <string name="favorites">รายการโปรด</string>
+    <string name="albums">อัลบั้ม</string>
+    <string name="search_title">ค้นหา</string>
+    <string name="settings">การตั้งค่า</string>
+    <string name="language_heading">ภาษา</string>
+    <string name="language_system">ภาษาของระบบ</string>
+    <string name="back">ย้อนกลับ</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="close">ปิด</string>
+    <string name="delete">ลบ</string>
+    <string name="edit">แก้ไข</string>
+    <string name="share">แชร์</string>
+    <string name="copy">คัดลอก</string>
+    <string name="move">ย้าย</string>
+    <string name="rename">เปลี่ยนชื่อ</string>
+    <string name="save">บันทึก</string>
+    <string name="export">ส่งออก</string>
+    <string name="filters">ฟิลเตอร์</string>
+    <string name="crop">ครอบตัด</string>
+    <string name="rotate_90">หมุน 90°</string>
+    <string name="mirror">สะท้อน</string>
+    <string name="undo">เลิกทำ</string>
+    <string name="redo">ทำซ้ำ</string>
+    <string name="compare">เปรียบเทียบ</string>
+    <string name="original">ต้นฉบับ</string>
+    <string name="file_info">ข้อมูลไฟล์</string>
+    <string name="all">ทั้งหมด</string>
+    <string name="select_all">เลือกทั้งหมด</string>
+    <string name="clear_selection">ล้างการเลือก</string>
+    <string name="new_album">อัลบั้มใหม่</string>
+    <string name="album_name">ชื่ออัลบั้ม</string>
+    <string name="favorite">รายการโปรด</string>
+    <string name="sort_media">จัดเรียงสื่อ</string>
+    <string name="sort_date">วันที่ถ่าย</string>
+    <string name="sort_name">ชื่อไฟล์</string>
+    <string name="sort_size">ขนาดไฟล์</string>
+    <string name="sort_duration">ความยาววิดีโอ</string>
+    <string name="sort_type">ประเภทไฟล์</string>
+    <string name="sort_descending">เรียงจากมากไปน้อย</string>
+    <string name="group_by_day">จัดกลุ่มตามวัน</string>
+    <string name="more_actions">เพิ่มเติม</string>
+</resources>

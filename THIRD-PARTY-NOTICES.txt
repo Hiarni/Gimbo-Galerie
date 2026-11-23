@@ -1,0 +1,78 @@
+Gimbo Galerie - Third-party notices
+===================================
+
+Gimbo Galerie is licensed under the MIT License (see LICENSE).
+It includes the following third-party components. Each component remains
+under its own license. Full license texts are provided in the LICENSES folder.
+
+
+Included in the app
+-------------------
+
+Apache License 2.0 (LICENSES/Apache-2.0.txt)
+
+  AndroidX and Jetpack libraries
+    Activity, AppCompat, Compose (UI, Foundation, Material 3, Animation,
+    Runtime), Core, DataStore, ExifInterface, Lifecycle, Media3 (ExoPlayer,
+    Transformer, Effect, UI), Room, SQLite, Startup, WorkManager and their
+    AndroidX dependencies
+    Copyright The Android Open Source Project
+
+  Accompanist Drawable Painter
+    Copyright The Android Open Source Project
+
+  Kotlin Standard Library
+    Copyright JetBrains s.r.o. and Kotlin Programming Language contributors
+
+  kotlinx.coroutines, kotlinx.serialization
+    Copyright JetBrains s.r.o. and contributors
+
+  JetBrains Java Annotations
+    Copyright JetBrains s.r.o.
+
+  Coil
+    Copyright Coil Contributors
+
+  OkHttp, Okio
+    Copyright Square, Inc.
+
+  Guava, failureaccess, ListenableFuture
+    Copyright The Guava Authors
+
+  Error Prone Annotations
+    Copyright The Error Prone Authors
+
+  J2ObjC Annotations
+    Copyright Google Inc.
+
+  JSR 305 Annotations (com.google.code.findbugs:jsr305)
+    Copyright The FindBugs JSR305 project contributors
+
+  JSpecify
+    Copyright The JSpecify Authors
+
+  Lottie for Android
+    Copyright Airbnb, Inc.
+
+MIT License (LICENSES/MIT.txt)
+
+  Checker Framework qualifiers
+    Copyright 2004-present by the Checker Framework developers
+
+
+Source repository only (not included in the app)
+------------------------------------------------
+
+  Gradle Wrapper (gradlew, gradlew.bat, gradle/wrapper)
+    Copyright 2015-2021 the original authors
+    Apache License 2.0
+
+  Test libraries: JUnit 4 (Eclipse Public License 1.0), Robolectric
+  (MIT License), AndroidX Test and Compose UI Test (Apache License 2.0)
+
+
+Trademarks
+----------
+
+Android is a trademark of Google LLC. All other trademarks are the property
+of their respective owners.

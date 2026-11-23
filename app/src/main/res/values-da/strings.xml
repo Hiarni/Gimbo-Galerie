@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Fotos</string>
+    <string name="videos">Videoer</string>
+    <string name="favorites">Favoritter</string>
+    <string name="albums">Albummer</string>
+    <string name="search_title">Søg</string>
+    <string name="settings">Indstillinger</string>
+    <string name="language_heading">SPROG</string>
+    <string name="language_system">Systemsprog</string>
+    <string name="back">Tilbage</string>
+    <string name="cancel">Annuller</string>
+    <string name="close">Luk</string>
+    <string name="delete">Slet</string>
+    <string name="edit">Rediger</string>
+    <string name="share">Del</string>
+    <string name="copy">Kopiér</string>
+    <string name="move">Flyt</string>
+    <string name="rename">Omdøb</string>
+    <string name="save">Gem</string>
+    <string name="export">Eksportér</string>
+    <string name="filters">Filtre</string>
+    <string name="crop">Beskær</string>
+    <string name="rotate_90">Drej 90°</string>
+    <string name="mirror">Spejlvend</string>
+    <string name="undo">Fortryd</string>
+    <string name="redo">Gentag</string>
+    <string name="compare">Sammenlign</string>
+    <string name="original">Original</string>
+    <string name="file_info">Filoplysninger</string>
+    <string name="all">Alle</string>
+    <string name="select_all">Vælg alle</string>
+    <string name="clear_selection">Ryd valg</string>
+    <string name="new_album">Nyt album</string>
+    <string name="album_name">Albumnavn</string>
+    <string name="favorite">Favorit</string>
+    <string name="sort_media">Sortér medier</string>
+    <string name="sort_date">Optagelsesdato</string>
+    <string name="sort_name">Filnavn</string>
+    <string name="sort_size">Filstørrelse</string>
+    <string name="sort_duration">Videolængde</string>
+    <string name="sort_type">Filtype</string>
+    <string name="sort_descending">Faldende rækkefølge</string>
+    <string name="group_by_day">Gruppér efter dag</string>
+    <string name="more_actions">Mere</string>
+</resources>

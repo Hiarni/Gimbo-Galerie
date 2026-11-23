@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Zdjęcia</string>
+    <string name="videos">Filmy</string>
+    <string name="favorites">Ulubione</string>
+    <string name="albums">Albumy</string>
+    <string name="search_title">Szukaj</string>
+    <string name="settings">Ustawienia</string>
+    <string name="language_heading">JĘZYK</string>
+    <string name="language_system">Język systemu</string>
+    <string name="back">Wstecz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="close">Zamknij</string>
+    <string name="delete">Usuń</string>
+    <string name="edit">Edytuj</string>
+    <string name="share">Udostępnij</string>
+    <string name="copy">Kopiuj</string>
+    <string name="move">Przenieś</string>
+    <string name="rename">Zmień nazwę</string>
+    <string name="save">Zapisz</string>
+    <string name="export">Eksportuj</string>
+    <string name="filters">Filtry</string>
+    <string name="crop">Przytnij</string>
+    <string name="rotate_90">Obróć o 90°</string>
+    <string name="mirror">Odbij</string>
+    <string name="undo">Cofnij</string>
+    <string name="redo">Ponów</string>
+    <string name="compare">Porównaj</string>
+    <string name="original">Oryginał</string>
+    <string name="file_info">Informacje o pliku</string>
+    <string name="all">Wszystkie</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="clear_selection">Wyczyść zaznaczenie</string>
+    <string name="new_album">Nowy album</string>
+    <string name="album_name">Nazwa albumu</string>
+    <string name="favorite">Ulubiony</string>
+    <string name="sort_media">Sortuj multimedia</string>
+    <string name="sort_date">Data wykonania</string>
+    <string name="sort_name">Nazwa pliku</string>
+    <string name="sort_size">Rozmiar pliku</string>
+    <string name="sort_duration">Długość filmu</string>
+    <string name="sort_type">Typ pliku</string>
+    <string name="sort_descending">Malejąco</string>
+    <string name="group_by_day">Grupuj według dnia</string>
+    <string name="more_actions">Więcej</string>
+</resources>

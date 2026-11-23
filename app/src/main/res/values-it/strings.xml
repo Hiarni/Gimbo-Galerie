@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Foto</string>
+    <string name="videos">Video</string>
+    <string name="favorites">Preferiti</string>
+    <string name="albums">Album</string>
+    <string name="search_title">Cerca</string>
+    <string name="settings">Impostazioni</string>
+    <string name="language_heading">LINGUA</string>
+    <string name="language_system">Lingua di sistema</string>
+    <string name="back">Indietro</string>
+    <string name="cancel">Annulla</string>
+    <string name="close">Chiudi</string>
+    <string name="delete">Elimina</string>
+    <string name="edit">Modifica</string>
+    <string name="share">Condividi</string>
+    <string name="copy">Copia</string>
+    <string name="move">Sposta</string>
+    <string name="rename">Rinomina</string>
+    <string name="save">Salva</string>
+    <string name="export">Esporta</string>
+    <string name="filters">Filtri</string>
+    <string name="crop">Ritaglia</string>
+    <string name="rotate_90">Ruota di 90°</string>
+    <string name="mirror">Specchia</string>
+    <string name="undo">Annulla</string>
+    <string name="redo">Ripeti</string>
+    <string name="compare">Confronta</string>
+    <string name="original">Originale</string>
+    <string name="file_info">Informazioni sul file</string>
+    <string name="all">Tutti</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="clear_selection">Deseleziona</string>
+    <string name="new_album">Nuovo album</string>
+    <string name="album_name">Nome album</string>
+    <string name="favorite">Preferito</string>
+    <string name="sort_media">Ordina contenuti</string>
+    <string name="sort_date">Data di scatto</string>
+    <string name="sort_name">Nome file</string>
+    <string name="sort_size">Dimensione file</string>
+    <string name="sort_duration">Durata video</string>
+    <string name="sort_type">Tipo file</string>
+    <string name="sort_descending">Ordine decrescente</string>
+    <string name="group_by_day">Raggruppa per giorno</string>
+    <string name="more_actions">Altro</string>
+</resources>

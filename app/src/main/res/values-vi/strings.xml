@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Ảnh</string>
+    <string name="videos">Video</string>
+    <string name="favorites">Yêu thích</string>
+    <string name="albums">Album</string>
+    <string name="search_title">Tìm kiếm</string>
+    <string name="settings">Cài đặt</string>
+    <string name="language_heading">NGÔN NGỮ</string>
+    <string name="language_system">Ngôn ngữ hệ thống</string>
+    <string name="back">Quay lại</string>
+    <string name="cancel">Hủy</string>
+    <string name="close">Đóng</string>
+    <string name="delete">Xóa</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="share">Chia sẻ</string>
+    <string name="copy">Sao chép</string>
+    <string name="move">Di chuyển</string>
+    <string name="rename">Đổi tên</string>
+    <string name="save">Lưu</string>
+    <string name="export">Xuất</string>
+    <string name="filters">Bộ lọc</string>
+    <string name="crop">Cắt</string>
+    <string name="rotate_90">Xoay 90°</string>
+    <string name="mirror">Lật</string>
+    <string name="undo">Hoàn tác</string>
+    <string name="redo">Làm lại</string>
+    <string name="compare">So sánh</string>
+    <string name="original">Bản gốc</string>
+    <string name="file_info">Thông tin tệp</string>
+    <string name="all">Tất cả</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="clear_selection">Bỏ chọn</string>
+    <string name="new_album">Album mới</string>
+    <string name="album_name">Tên album</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="sort_media">Sắp xếp nội dung</string>
+    <string name="sort_date">Ngày chụp</string>
+    <string name="sort_name">Tên tệp</string>
+    <string name="sort_size">Kích thước tệp</string>
+    <string name="sort_duration">Thời lượng video</string>
+    <string name="sort_type">Loại tệp</string>
+    <string name="sort_descending">Thứ tự giảm dần</string>
+    <string name="group_by_day">Nhóm theo ngày</string>
+    <string name="more_actions">Thêm</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">عکس‌ها</string>
+    <string name="videos">ویدیوها</string>
+    <string name="favorites">علاقه‌مندی‌ها</string>
+    <string name="albums">آلبوم‌ها</string>
+    <string name="search_title">جستجو</string>
+    <string name="settings">تنظیمات</string>
+    <string name="language_heading">زبان</string>
+    <string name="language_system">زبان سیستم</string>
+    <string name="back">بازگشت</string>
+    <string name="cancel">لغو</string>
+    <string name="close">بستن</string>
+    <string name="delete">حذف</string>
+    <string name="edit">ویرایش</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="copy">کپی</string>
+    <string name="move">انتقال</string>
+    <string name="rename">تغییر نام</string>
+    <string name="save">ذخیره</string>
+    <string name="export">صدور</string>
+    <string name="filters">فیلترها</string>
+    <string name="crop">برش</string>
+    <string name="rotate_90">چرخش ۹۰°</string>
+    <string name="mirror">قرینه</string>
+    <string name="undo">واگرد</string>
+    <string name="redo">انجام مجدد</string>
+    <string name="compare">مقایسه</string>
+    <string name="original">اصل</string>
+    <string name="file_info">اطلاعات فایل</string>
+    <string name="all">همه</string>
+    <string name="select_all">انتخاب همه</string>
+    <string name="clear_selection">پاک کردن انتخاب</string>
+    <string name="new_album">آلبوم جدید</string>
+    <string name="album_name">نام آلبوم</string>
+    <string name="favorite">علاقه‌مندی</string>
+    <string name="sort_media">مرتب‌سازی رسانه</string>
+    <string name="sort_date">تاریخ ثبت</string>
+    <string name="sort_name">نام فایل</string>
+    <string name="sort_size">اندازه فایل</string>
+    <string name="sort_duration">مدت ویدیو</string>
+    <string name="sort_type">نوع فایل</string>
+    <string name="sort_descending">ترتیب نزولی</string>
+    <string name="group_by_day">گروه‌بندی بر اساس روز</string>
+    <string name="more_actions">بیشتر</string>
+</resources>

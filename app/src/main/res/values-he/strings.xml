@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">תמונות</string>
+    <string name="videos">סרטונים</string>
+    <string name="favorites">מועדפים</string>
+    <string name="albums">אלבומים</string>
+    <string name="search_title">חיפוש</string>
+    <string name="settings">הגדרות</string>
+    <string name="language_heading">שפה</string>
+    <string name="language_system">שפת המערכת</string>
+    <string name="back">חזרה</string>
+    <string name="cancel">ביטול</string>
+    <string name="close">סגירה</string>
+    <string name="delete">מחיקה</string>
+    <string name="edit">עריכה</string>
+    <string name="share">שיתוף</string>
+    <string name="copy">העתקה</string>
+    <string name="move">העברה</string>
+    <string name="rename">שינוי שם</string>
+    <string name="save">שמירה</string>
+    <string name="export">ייצוא</string>
+    <string name="filters">מסננים</string>
+    <string name="crop">חיתוך</string>
+    <string name="rotate_90">סיבוב 90°</string>
+    <string name="mirror">שיקוף</string>
+    <string name="undo">ביטול פעולה</string>
+    <string name="redo">ביצוע חוזר</string>
+    <string name="compare">השוואה</string>
+    <string name="original">מקור</string>
+    <string name="file_info">מידע על הקובץ</string>
+    <string name="all">הכול</string>
+    <string name="select_all">בחירת הכול</string>
+    <string name="clear_selection">ניקוי הבחירה</string>
+    <string name="new_album">אלבום חדש</string>
+    <string name="album_name">שם האלבום</string>
+    <string name="favorite">מועדף</string>
+    <string name="sort_media">מיון מדיה</string>
+    <string name="sort_date">תאריך צילום</string>
+    <string name="sort_name">שם הקובץ</string>
+    <string name="sort_size">גודל הקובץ</string>
+    <string name="sort_duration">משך הסרטון</string>
+    <string name="sort_type">סוג הקובץ</string>
+    <string name="sort_descending">סדר יורד</string>
+    <string name="group_by_day">קיבוץ לפי יום</string>
+    <string name="more_actions">עוד</string>
+</resources>

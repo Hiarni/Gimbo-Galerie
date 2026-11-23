@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Fotók</string>
+    <string name="videos">Videók</string>
+    <string name="favorites">Kedvencek</string>
+    <string name="albums">Albumok</string>
+    <string name="search_title">Keresés</string>
+    <string name="settings">Beállítások</string>
+    <string name="language_heading">NYELV</string>
+    <string name="language_system">Rendszernyelv</string>
+    <string name="back">Vissza</string>
+    <string name="cancel">Mégse</string>
+    <string name="close">Bezárás</string>
+    <string name="delete">Törlés</string>
+    <string name="edit">Szerkesztés</string>
+    <string name="share">Megosztás</string>
+    <string name="copy">Másolás</string>
+    <string name="move">Áthelyezés</string>
+    <string name="rename">Átnevezés</string>
+    <string name="save">Mentés</string>
+    <string name="export">Exportálás</string>
+    <string name="filters">Szűrők</string>
+    <string name="crop">Vágás</string>
+    <string name="rotate_90">Forgatás 90°-kal</string>
+    <string name="mirror">Tükrözés</string>
+    <string name="undo">Visszavonás</string>
+    <string name="redo">Újra</string>
+    <string name="compare">Összehasonlítás</string>
+    <string name="original">Eredeti</string>
+    <string name="file_info">Fájlinformációk</string>
+    <string name="all">Összes</string>
+    <string name="select_all">Összes kijelölése</string>
+    <string name="clear_selection">Kijelölés törlése</string>
+    <string name="new_album">Új album</string>
+    <string name="album_name">Album neve</string>
+    <string name="favorite">Kedvenc</string>
+    <string name="sort_media">Média rendezése</string>
+    <string name="sort_date">Felvétel dátuma</string>
+    <string name="sort_name">Fájlnév</string>
+    <string name="sort_size">Fájlméret</string>
+    <string name="sort_duration">Videó hossza</string>
+    <string name="sort_type">Fájltípus</string>
+    <string name="sort_descending">Csökkenő sorrend</string>
+    <string name="group_by_day">Csoportosítás nap szerint</string>
+    <string name="more_actions">Továbbiak</string>
+</resources>

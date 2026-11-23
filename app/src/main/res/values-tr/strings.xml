@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Fotoğraflar</string>
+    <string name="videos">Videolar</string>
+    <string name="favorites">Favoriler</string>
+    <string name="albums">Albümler</string>
+    <string name="search_title">Ara</string>
+    <string name="settings">Ayarlar</string>
+    <string name="language_heading">DİL</string>
+    <string name="language_system">Sistem dili</string>
+    <string name="back">Geri</string>
+    <string name="cancel">İptal</string>
+    <string name="close">Kapat</string>
+    <string name="delete">Sil</string>
+    <string name="edit">Düzenle</string>
+    <string name="share">Paylaş</string>
+    <string name="copy">Kopyala</string>
+    <string name="move">Taşı</string>
+    <string name="rename">Yeniden adlandır</string>
+    <string name="save">Kaydet</string>
+    <string name="export">Dışa aktar</string>
+    <string name="filters">Filtreler</string>
+    <string name="crop">Kırp</string>
+    <string name="rotate_90">90° döndür</string>
+    <string name="mirror">Yansıt</string>
+    <string name="undo">Geri al</string>
+    <string name="redo">Yinele</string>
+    <string name="compare">Karşılaştır</string>
+    <string name="original">Orijinal</string>
+    <string name="file_info">Dosya bilgileri</string>
+    <string name="all">Tümü</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="clear_selection">Seçimi temizle</string>
+    <string name="new_album">Yeni albüm</string>
+    <string name="album_name">Albüm adı</string>
+    <string name="favorite">Favori</string>
+    <string name="sort_media">Medyayı sırala</string>
+    <string name="sort_date">Çekim tarihi</string>
+    <string name="sort_name">Dosya adı</string>
+    <string name="sort_size">Dosya boyutu</string>
+    <string name="sort_duration">Video süresi</string>
+    <string name="sort_type">Dosya türü</string>
+    <string name="sort_descending">Azalan sıralama</string>
+    <string name="group_by_day">Güne göre grupla</string>
+    <string name="more_actions">Diğer</string>
+</resources>

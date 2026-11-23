@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photos">Foto’s</string>
+    <string name="videos">Video’s</string>
+    <string name="favorites">Favorieten</string>
+    <string name="albums">Albums</string>
+    <string name="search_title">Zoeken</string>
+    <string name="settings">Instellingen</string>
+    <string name="language_heading">TAAL</string>
+    <string name="language_system">Systeemtaal</string>
+    <string name="back">Terug</string>
+    <string name="cancel">Annuleren</string>
+    <string name="close">Sluiten</string>
+    <string name="delete">Verwijderen</string>
+    <string name="edit">Bewerken</string>
+    <string name="share">Delen</string>
+    <string name="copy">Kopiëren</string>
+    <string name="move">Verplaatsen</string>
+    <string name="rename">Hernoemen</string>
+    <string name="save">Opslaan</string>
+    <string name="export">Exporteren</string>
+    <string name="filters">Filters</string>
+    <string name="crop">Bijsnijden</string>
+    <string name="rotate_90">90° draaien</string>
+    <string name="mirror">Spiegelen</string>
+    <string name="undo">Ongedaan maken</string>
+    <string name="redo">Opnieuw</string>
+    <string name="compare">Vergelijken</string>
+    <string name="original">Origineel</string>
+    <string name="file_info">Bestandsinformatie</string>
+    <string name="all">Alles</string>
+    <string name="select_all">Alles selecteren</string>
+    <string name="clear_selection">Selectie wissen</string>
+    <string name="new_album">Nieuw album</string>
+    <string name="album_name">Albumnaam</string>
+    <string name="favorite">Favoriet</string>
+    <string name="sort_media">Media sorteren</string>
+    <string name="sort_date">Opnamedatum</string>
+    <string name="sort_name">Bestandsnaam</string>
+    <string name="sort_size">Bestandsgrootte</string>
+    <string name="sort_duration">Videoduur</string>
+    <string name="sort_type">Bestandstype</string>
+    <string name="sort_descending">Aflopende volgorde</string>
+    <string name="group_by_day">Groeperen per dag</string>
+    <string name="more_actions">Meer</string>
+</resources>
