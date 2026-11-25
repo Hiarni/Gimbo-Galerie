@@ -48,8 +48,8 @@ android {
         applicationId = "de.luma.gallery"
         minSdk = 29
         targetSdk = 36
-        versionCode = 93
-        versionName = "0.93 Beta"
+        versionCode = 94
+        versionName = "0.94 Beta"
         resourceConfigurations += listOf("en", "de", "es", "fr", "it", "pt", "nl", "pl", "cs", "sk", "hu", "ro", "el", "tr", "ru", "uk", "sv", "da", "nb", "fi", "ar", "he", "fa", "hi", "bn", "id", "ms", "vi", "th", "ja", "ko", "b+zh+Hans", "b+zh+Hant")
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

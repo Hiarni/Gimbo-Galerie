@@ -12,6 +12,9 @@
 
 </div>
 
+## 0.94 Beta
+- New app icon in the style of Gimbo Launcher: white G above a photo tile with mountains and sun
+
 ## 0.93 Beta
 - New app icon: photo stack with mountains and sun in front
 

@@ -12,6 +12,9 @@
 
 </div>
 
+## 0.94 Beta
+- Neues App-Icon im Stil des Gimbo Launchers: weißes G über Fotokachel mit Bergen und Sonne
+
 ## 0.93 Beta
 - Neues App-Icon: Fotostapel mit Bergen und Sonne im Vordergrund
 

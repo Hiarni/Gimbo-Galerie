@@ -8,7 +8,7 @@
 
 **Galerie. Editor. Deine Ideen.**
 
-![Version](https://img.shields.io/badge/Version-0.93_Beta-5b6cff)
+![Version](https://img.shields.io/badge/Version-0.94_Beta-5b6cff)
 ![Android](https://img.shields.io/badge/Android-10%2B-3ddc84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack_Compose-7f52ff?logo=kotlin&logoColor=white)
 ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-f5a623)
