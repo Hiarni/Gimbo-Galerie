@@ -2,9 +2,15 @@
 
 🇩🇪 <a href="CHANGELOG.md">Deutsch</a> &nbsp;·&nbsp; 🇬🇧 <b>English</b>
 
-</div>
+<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="72" alt="Gimbo Galerie">
 
 # Changelog
+
+**Everything new in Gimbo Galerie, latest version first.**
+
+[**Download APK**](../../releases/latest) · [**README**](README.en.md)
+
+</div>
 
 ## 0.93 Beta
 - New app icon: photo stack with mountains and sun in front

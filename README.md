@@ -13,7 +13,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack_Compose-7f52ff?logo=kotlin&logoColor=white)
 ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-f5a623)
 
-[**APK herunterladen**](../../releases/latest) · [**Alle Versionen**](../../releases) · [**Changelog**](CHANGELOG.md)
+[**APK herunterladen**](../../releases/latest) · [**Alle Versionen**](../../releases) · [**Änderungen**](CHANGELOG.md)
 
 </div>
 
